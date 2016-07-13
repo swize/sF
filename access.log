@@ -1,0 +1,4 @@
+127.0.0.1 - - [13/Jul/2016:12:07:56 +0300] "GET / HTTP/1.1" 200 242 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41"
+127.0.0.1 - - [13/Jul/2016:12:08:00 +0300] "GET /favicon.ico HTTP/1.1" 404 502 "http://tralise.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41"
+127.0.0.1 - - [13/Jul/2016:13:48:05 +0300] "GET / HTTP/1.1" 200 242 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41"
+127.0.0.1 - - [13/Jul/2016:13:48:07 +0300] "GET /favicon.ico HTTP/1.1" 404 502 "http://tralise.com/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36 OPR/38.0.2220.41"
